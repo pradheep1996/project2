@@ -6,7 +6,8 @@ public class Login {
 		
 		System.out.println("Hotel Booking");
 		int a = 10;
-		int b= 20;		
+		int b= 20;	
+		System.out.println(a+b);
 	}
 
 }
