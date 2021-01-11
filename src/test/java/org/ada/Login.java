@@ -9,6 +9,8 @@ public class Login {
 		int b= 20;	
 		System.out.println(a+b);
 		System.out.println(a-b);
+		System.out.println("jeeva");
+		System.out.println("bala");
 	}
 
 }
