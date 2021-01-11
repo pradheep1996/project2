@@ -12,6 +12,9 @@ public class Login {
 		System.out.println("jeeva");
 		System.out.println("bala");
 		System.out.println("selenium,java");
+		for (int i = 0; i < args.length; i++) {
+			System.out.println(i);
+		}
 	}
 
 }
